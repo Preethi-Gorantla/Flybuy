@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    height: 7vh;
+}
+
+.Services-heading {
+    color: #183b56;
+}
+
+.Services-descp {
+    color: #616c7c;
+}
+
+.Services-img {
+    height: 10vh;
+    width: 10vh;
+    margin: 10px;
+}
+
+.card-head {
+    color: #1f2933;
+    font-size: 25px;
+}
+
+.card-descp {
+    color: #7b8794;
+    font-size: 20px;
+}
+
+.Products {
+    padding: 20px;
+}
+
+.headphones {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    height: 350px;
+    background-size: cover;
+    color: white;
+    border-radius: 25px;
+}
+
+.laptop {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    height: 350px;
+    background-size: cover;
+    color: white;
+    border-radius: 25px;
+}
+
+.Products-btn {
+    background-color: white;
+    color: #ff9f000;
+    border-radius: 25px;
+    width: 150px;
+    height: 50px;
+    border-width: 0px;
+}
+
+.modal-body {
+    color: black;
+}
+
+.modal-title {
+    color: black;
+}
+
+.offers {
+    color: #ff9ff00;
+}
+
+.offers {
+    font-family: Roboto;
+    background-image: Linear-Gradient(to right, #f49541, #dd5d97);
+    color: white;
+
+}
+
+.spcl-head {
+    color: #ad2167;
+    font-family: Serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.discount-img {
+    height: 15vh;
+}
+
+.trending-blogs {
+    color: #959ead;
+}
+
+.Trending-head {
+    color: #183b56;
+}
+
+.explore-offers {
+    color: #183b56;
+    background-color: #f5f7fa;
+}
+
+.item-img {
+    border-radius: 25px;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.hover {
+    color: #fff00;
+}
+
+.explore-offers-heading {
+    font-weight: 900;
+}
+
+.app-intro {
+    font-weight: 800;
+}
+
+.contact-us {
+    padding: 60px 10px 40px 10px;
+    background-color: #f5f7fa;
+    height: 250px;
+    color: #183b56;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.btn {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ff9f00;
+    color: #ff9f00;
+    margin: 15px;
+}
+
+.footer {
+    padding: 10px;
+    background-color: #19232d;
+    color: #959ead;
+    text-align: center;
+    font-weight: 300;
+}
+
+.footer-img {
+    margin-top: 30px;
+    height: 5vh;
+    text-align: center;
+}
+
+.footer-logo {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+.media {
+    padding: 15px;
+    text-align: center;
+    color: #959ead;
+    background-color: #19233d;
+    width: 40px;
+    height: 50px;
+    border-radius: 40px;
+    font-size: 18px;
+    margin: 15px;
+}
+
+.Contact-Us {
+    padding: 30px;
+}
+
+.help {
+    padding: 30px;
+}
+
+.hr-line {
+    background-color: #5a7184;
+    color: #959ead;
+}
